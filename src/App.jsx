@@ -1,6 +1,6 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import About from './components/about';
+import About from './components/About';
 import Technologies from './components/Technologies';
 import Programming from './components/Programming';
 import Projects from './components/Projects';
